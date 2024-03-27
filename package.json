@@ -1,0 +1,20 @@
+{
+  "name": "algo-yd",
+  "version": "1.0.0",
+  "description": "- [3-岛屿数量.md](./easy/3-岛屿数量.md)",
+  "main": "create-menu.js",
+  "scripts": {
+    "menu": "node create-menu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaocoding007/algo-yd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaocoding007/algo-yd/issues"
+  },
+  "homepage": "https://github.com/yaocoding007/algo-yd#readme"
+}
