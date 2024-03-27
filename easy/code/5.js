@@ -18,4 +18,10 @@ function foo(str) {
     return 1
 }
 
+function bar(str) {
+    const origin = str.toLowerCase().match(/[a-z]/g).join('')
+    const target = arr.split('').reverse().join('')
+    return origin === target ? 1 : 0
+}
+
 console.log(foo('race a car'))
